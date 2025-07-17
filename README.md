@@ -83,6 +83,13 @@ YOLOv8의 구조를 기반으로 하되, **연산량 감소**와 **모바일 환
 
 ---
 
+## 📘 실습 노트북
+
+- 🧪 YOLOv8 실습 코드 보기  
+  👉 [Colab에서 실행하기]([https://colab.research.google.com/github/your-username/your-repo/blob/main/0717_YOLOv8_video.ipynb](https://colab.research.google.com/drive/1YkdD2cntW8IUDBbRL9MVYLTPB7ygXeiS#scrollTo=XXzTio84GdOx))
+
+---
+
 ## 📁 참고 자료
 
 - 📘 Colab 실습 파일: [`0717_YOLOv8_video.ipynb`](0717_YOLOv8_video.ipynb)
