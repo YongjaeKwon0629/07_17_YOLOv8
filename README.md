@@ -87,7 +87,7 @@ YOLOv8의 구조를 기반으로 하되, **연산량 감소**와 **모바일 환
 
 - 🧪 YOLOv8 실습 코드 보기  
   👉 [Colab에서 실행하기](https://colab.research.google.com/drive/1YkdD2cntW8IUDBbRL9MVYLTPB7ygXeiS#scrollTo=XXzTio84GdOx)
-
+- 📸 실행 결과 (YOLO 객체 탐지 예시)
 ---
 
 ## 📁 참고 자료
